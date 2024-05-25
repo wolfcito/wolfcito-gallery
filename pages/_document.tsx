@@ -17,7 +17,7 @@ class MyDocument extends Document {
           />
           <meta name="twitter:description" content="Wolfcito's gallery" />
         </Head>
-        <body className="bg-black antialiased">
+        <body className="antialiased">
           <Main />
           <NextScript />
         </body>
